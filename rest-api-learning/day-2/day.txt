@@ -1,0 +1,23 @@
+1. Explored Postman
+2. Created user and post endpoints in postman.
+3. Learned about global and collections scope variables in postman.
+4. Learned about sharing collection in different ways.
+5. Created end points for countries, states, cities following folder structure.
+6. Learned about 401 and 403 (authorized vs forbidden) differnece and when to use each.
+7. Learned about authentication vs authorization.
+8. Status codes viva taken by Paras.
+9. Learned about different data types in postman - form-data, x-www-form-urlencoded, raw, binary etc.
+10. Used Post-script of postman to set a collections variable using the data returned as a response.
+11. Learn auth methods - OAuth 1.0 & OAuth 2.0, bearer token, api key, jwt 
+
+
+
+daily update in english -
+
+In yesterday's session we got started with postman and created user and post endpoints and learned about global and collection variables in postman.
+then we had a discussion on 401 AND 403 -> UNAUTHORIZED AND FORBIDDEN
+we also learned about the methods to share a collection.
+then we  created api requests for countries, states and city.
+and also learned about the form data types in postman - form-data, x-www-form-urlencoded, raw, binary etc..
+then we have a task to use post script to create a env variable using a response.
+
